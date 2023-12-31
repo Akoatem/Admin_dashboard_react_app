@@ -1,0 +1,18 @@
+.main{
+    background-color: rgb(227, 236, 233);
+}
+
+.container{
+    display: flex;
+    margin-top: 10px;
+}
+
+/* .others{
+   flex: 4;
+   background-color: rgba(255, 255, 255, 0.267);
+} */
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
